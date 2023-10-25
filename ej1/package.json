@@ -9,7 +9,7 @@
 	},
 	"author": "Frances Morales Velilla",
 	"license": "ISC",
-	"dependencies": {
+	"devDependencies": {
 		"nodemon": "^3.0.1"
 	}
 }
