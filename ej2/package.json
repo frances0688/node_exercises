@@ -1,0 +1,17 @@
+{
+	"name": "ejercicio-2",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "Frances Morales Velilla",
+	"license": "ISC",
+	"devDependencies": {
+		"logplease": "^1.2.15",
+		"nodemon": "^3.0.1"
+	}
+}
